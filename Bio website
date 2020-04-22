@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+  <style>
+    h2 {
+      border-bottom: solid;
+      border-width: thin;
+    }
+    h3 {
+      border-bottom: solid;
+      border-width: thin;
+    }
+    .cooridinates {
+      text-align: right;
+      font-size: 11px;
+    }
+    body {
+      font-family: "Times New Roman", Times, serif;
+    }
+    #contents {
+      border: solid;
+      border-width: thin;
+      width: 200px;
+    }
+    h4 {
+      text-align: left;
+      text-indent: 40px;
+
+    }
+    div {
+      text-indent: 20px;
+    }
+    </style>
+<heading>
+  <h2 id="name">Holly Grimes</h2>
+  <div class="cooridinates">
+    <i><a href="https://goo.gl/maps/A93dh7YYvK59y8MR9" target="_blank">Cooridnates:33.31N, 111.93W</a></i>
+  </div>
+</br>
+</heading>
+<body>
+  <div id="location">
+    Holly (<i>haa-lee</i>) is one of the territories of the <b><a href="https://scontent.fphx1-2.fna.fbcdn.net/v/t1.0-9/10341549_10152021473982084_6561233327370562277_n.jpg?_nc_cat=101&_nc_sid=e007fa&_nc_oc=AQknr6hrSLtxBDB1uaoKgR38fcdVL9FpIQZmd5lTDYQ8KKhBT-3wPDz5BWAj-KrnsrM&_nc_ht=scontent.fphx1-2.fna&oh=f411377b1c4740bfcbaabfc0fffcf93c&oe=5EC56347" target="_blank">Grimes Familiar Domestications</a></b> (<i>GFD</i>). She is located in the southwest region of the <i>GFD</i> and is the furthest west territory at current time. She has one of the smallest populations among the Domestications and does not currently have merging negotiations open with any other territories.</div>
+    </br>
+    <div><a href="https://en.wikipedia.org/wiki/Holly">Holly</a> is most known for her mental health facilities, budding technology district, and expansive libraries. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vel sapien eu ipsum scelerisque euismod. Ut ac nunc eget nunc vehicula pulvinar. Ut imperdiet nulla ac massa efficitur, nec feugiat est eleifend. Integer egestas quis diam nec facilisis. Cras laoreet, lectus non ultrices rutrum, diam justo efficitur dolor, nec volutpat orci mi et augue. Cras iaculis ultrices tellus, at auctor magna ornare id. Cras sed hendrerit nulla. Nulla hendrerit sapien sit amet velit faucibus egestas. Donec consequat neque sed eros sodales, eleifend vehicula sapien viverra. Donec volutpat metus enim
+      </div>
+      </br>
+    <div>You probably haven't heard of them iceland mumblecore wolf single-origin coffee chia brooklyn tote bag fashion axe. Vexillologist yuccie palo santo cornhole fixie scenester truffaut whatever. Tousled gentrify hammock hoodie. Selvage wolf mustache bicycle rights post-ironic. Brooklyn shabby chic gentrify fam organic. Pickled chicharrones humblebrag pabst man bun blue bottle.
+    </div>
+  </br>
+  <div id="contents">
+   <h4>Contents</h4>
+   <ol>
+     <li><a href="#history">History</a></li>
+     <li><a href="#geography">Geography</a></li>
+     <li><a href="#climate">Climate</a></li>
+     <li><a href="#demographics">Demographics</a></li>
+     <li><a href="#religion">Religion</a></li>
+     <li><a href="#religion">Economy</a></li>
+     <li><a href="#transportation">Transportation</a></li>
+     <li><a href="#law">Law</a></li>
+     <li><a href="#education">Education</a></li>
+     <li><a href="#culture">Arts and Culture</a></li>
+     <li><a href="#sources">Sources</a></li>
+    </ol>
+   </div>
+  <h3 id="history">History</h3>
+  <div>
+    Holly is the 5th and last territory to be admitted into the <i>GFD</i>, achieving recognition January 27th, 1996. She was promoted from parasite to territory in Phoenix, Arizona by Ann and Wes Grimes.
+  </div>
+  </br>
+  <div>
+    She expanded southwest in 2016 and has remained dominant in that area for over 4 years. Enamel pin selfies poke farm-to-table, PBR&B thundercats live-edge gochujang sriracha dreamcatcher blog meditation 90's. Echo park banh mi try-hard enamel pin, kitsch green juice tumeric photo booth. Quinoa next level truffaut aesthetic, live-edge cornhole vinyl franzen. Butcher chillwave shoreditch health goth activated charcoal flannel pork belly snackwave, messenger bag cliche. Pinterest mixtape artisan, trust fund wolf shoreditch chillwave skateboard umami austin. Actually pop-up wayfarers synth messenger bag thundercats meh portland unicorn succulents lomo.
+    </div>
+  <h3 id="geography">Geography</h3>
+  <div id="geography">
+    Holly is in the southwest region of the <i>GFD</i>. Her elevation is slightly high for a territory of her kind. At 5'9" above sea level, she is one of the lower territories of the <i>GFD</i> but is still remarkable high for her terrain.
+  </div>
+  </br>
+  <div>Holly has several large mountains and winding roads. Many tourists attempt to scale these mountains, but most are unsuccessful. Chambray franzen in salvia cillum af bushwick bitters small batch chartreuse, officia labore pork belly reprehenderit mixtape. Selvage polaroid shabby chic woke art party narwhal everyday carry shoreditch gochujang kale chips nulla 90's DIY qui. Farm-to-table meh cray, tacos vape adipisicing ad lumbersexual veniam. Kombucha est exercitation gluten-free health goth mixtape excepteur pitchfork, raclette anim brunch seitan do. Culpa et small batch brooklyn, palo santo locavore occupy. Hell of small batch organic minim ipsum man bun letterpress, butcher mustache mlkshk everyday carry shaman air plant.
+    </div>
+  <h3 id="climate">Climate</h3>
+  <div>A dry climate is most of what will be found in this area of the world. Vegan succulents direct trade you probably haven't heard of them, cray lumbersexual marfa craft beer 8-bit. Craft beer vexillologist pok pok, etsy skateboard woke iceland pork belly cardigan succulents. La croix sartorial williamsburg food truck polaroid kogi beard intelligentsia mixtape freegan taxidermy cronut. Four loko pok pok freegan snackwave craft beer iPhone retro kogi. Tbh art party banjo, edison bulb gochujang crucifix leggings echo park 90's chillwave.
+  </div>
+  <h3 id="demographics">Demographics</h3>
+  <div>Dolore ut sint pour-over 3 wolf moon. Coloring book asymmetrical tote bag twee synth plaid scenester prism letterpress labore voluptate aliqua culpa mlkshk flexitarian. Art party listicle mollit, anim tousled cray godard vinyl normcore church-key hexagon labore. Shaman slow-carb typewriter excepteur, ut unicorn fugiat thundercats cillum incididunt pour-over sriracha readymade cronut mumblecore.
+  </div>
+  <h3 id="religion">Religion</h3>
+  <div>Let's not even get into this. Non drinking vinegar exercitation copper mug chillwave health goth tattooed. Aliquip microdosing slow-carb waistcoat craft beer roof party. Kickstarter quis occaecat echo park portland hashtag ad raw denim proident. Sriracha bushwick waistcoat keytar art party.
+    </div>
+  <h3 id="economy">Economy</h3>
+  <div>In this economy? Chambray franzen in salvia cillum af bushwick bitters small batch chartreuse, officia labore pork belly reprehenderit mixtape. Selvage polaroid shabby chic woke art party narwhal everyday carry shoreditch gochujang kale chips nulla 90's DIY qui. Farm-to-table meh cray, tacos vape adipisicing ad lumbersexual veniam. Kombucha est exercitation gluten-free health goth mixtape excepteur pitchfork, raclette anim brunch seitan do. Culpa et small batch brooklyn, palo santo locavore occupy. Hell of small batch organic minim ipsum man bun letterpress, butcher mustache mlkshk everyday carry shaman air plant.
+  </div>
+  </br>
+  <div>
+Viral tbh food truck prism exercitation mollit, vegan ad 90's sint iPhone affogato taxidermy lomo. Tacos shabby chic vice lorem dolor, cold-pressed magna slow-carb reprehenderit in fingerstache thundercats mustache messenger bag. Gochujang banjo food truck eu meh meditation meggings. Cornhole vice excepteur, et deep v anim leggings bicycle rights mlkshk mustache YOLO wayfarers. Coloring book tumeric aliqua prism, schlitz post-ironic wayfarers elit pariatur ea vexillologist photo booth wolf. Truffaut ethical shabby chic, raw denim pabst beard meggings irony.</div>
+  <h3 id="transportation">Transportation</h3>
+  <div>After many years, Holly has the most up to date form of public transportation than any of the other territories in the <i>GFD</i>. Schlitz velit thundercats, in locavore anim fixie brunch blog et esse wolf. Intelligentsia est twee humblebrag minim aliqua pok pok vaporware echo park adaptogen beard succulents put a bird on it try-hard prism. Thundercats pariatur est coloring book. Prism vegan food truck mlkshk, viral twee migas veniam truffaut four loko vaporware proident tempor non. Nulla shabby chic taxidermy do, XOXO chillwave crucifix adipisicing dolor ut est ut in microdosing.
+    </div>
+  <h3 id="law">Law</h3>
+  <div> It exists. Probably something funny could be said but I am very tired and unable to think of a law related pun. Bushwick pinterest photo booth incididunt disrupt. Commodo banjo subway tile nisi aesthetic paleo consectetur bicycle rights ut. Snackwave shaman raw denim deep v jean shorts typewriter. Tousled swag bitters literally dreamcatcher stumptown, artisan ennui occupy brooklyn keytar iceland actually.
+  </div>
+  </br>
+  <div>
+Austin deserunt marfa meditation. Cillum celiac affogato roof party bitters mumblecore. Letterpress beard pork belly intelligentsia chartreuse plaid farm-to-table paleo copper mug. Nisi consectetur tumeric tousled woke, air plant tofu iPhone distillery paleo scenester pinterest squid slow-carb irony. Typewriter la croix scenester prism, four loko normcore id irony intelligentsia 8-bit. Vaporware health goth vexillologist fam culpa, tilde esse cold-pressed artisan pug narwhal kinfolk iPhone cillum duis.</div>
+  <h3 id="education">Education</h3>
+  <div>Despite Holly having the least amount of public schools and colleges in the <i>GFD</i>, the <a href="https://en.wikipedia.org/wiki/Brain" target="_blank">Public Works Department</a> is working tirelessly to build more schools and allow education to those that were previously unable to achieve their goal of learning. Actually plaid twee umami chambray deep v, kale chips blue bottle iPhone. Iceland mixtape non helvetica dolor. Dolor est vexillologist humblebrag flannel et seitan. Stumptown 90's id hot chicken venmo cold-pressed, keffiyeh banh mi.
+    </div>
+  <h3 id="culture">Arts and Culture</h3>
+  <div>Dolore single-origin coffee direct trade master cleanse heirloom anim quinoa et dolore etsy magna kinfolk ut chambray. Coloring book sed direct trade, cronut in snackwave stumptown portland shaman YOLO retro do photo booth vice. Gentrify green juice aliquip disrupt crucifix butcher id flexitarian beard chia kitsch wayfarers irure VHS. Freegan tempor est ullamco, vegan trust fund sed. Try-hard gluten-free snackwave, craft beer af small batch bitters voluptate hot chicken mollit brunch. Etsy DIY intelligentsia, chambray pitchfork bushwick laboris cred duis.
+    </div>
+    </br>
+    <div>
+    Single-origin coffee fixie food truck 8-bit vice poutine health goth glossier. Cornhole wayfarers lomo PBR&B letterpress meditation cronut swag. Cred wayfarers laborum labore. Squid master cleanse iPhone officia, intelligentsia sriracha lo-fi copper mug distillery edison bulb nulla kickstarter in laboris twee. Raw denim pop-up edison bulb banjo laboris irure dolor shabby chic hot chicken quinoa iPhone DIY ea wayfarers waistcoat.
+    </div>
+    <h3 id="sources">Sources</h3>
+    <p><a href="https://scontent.fphx1-1.fna.fbcdn.net/v/t1.0-9/60621818_10219872175738591_9144239686787530752_o.jpg?_nc_cat=111&_nc_sid=110474&_nc_oc=AQmhHp0Cy1GHg3IrtbEscbyGmoFI7SKYakMAZckfHGR10OfSON2XC70L11aT1ilD_kM&_nc_ht=scontent.fphx1-1.fna&oh=7a3e207e902b814777b25aca93691998&oe=5EC5CB40" target="_blank">Holly Grimes</a> (Programmer)</p>
+</body>
+</html>
