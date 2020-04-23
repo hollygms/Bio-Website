@@ -1,0 +1,30 @@
+<style>
+  h2 {
+    border-bottom: solid;
+    border-width: thin;
+  }
+  h3 {
+    border-bottom: solid;
+    border-width: thin;
+  }
+  .cooridinates {
+    text-align: right;
+    font-size: 11px;
+  }
+  body {
+    font-family: "Times New Roman", Times, serif;
+  }
+  #contents {
+    border: solid;
+    border-width: thin;
+    width: 200px;
+  }
+  h4 {
+    text-align: left;
+    text-indent: 40px;
+
+  }
+  div {
+    text-indent: 20px;
+  }
+  </style>
